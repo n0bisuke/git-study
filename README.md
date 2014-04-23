@@ -3,3 +3,6 @@
 ##参加者
 - n0bisuke
 - hiroyuki
+
+##日時
+4月末くらい
